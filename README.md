@@ -53,3 +53,16 @@ data limitations.
 ---
 
 ## Repository Structure
+
+```
+.
+├── code/
+│   └── analysis.R
+├── data/
+│   └── data files or download instructions
+├── outputs/
+│   ├── figures/
+│   └── tables/
+└── README.md
+```
+
