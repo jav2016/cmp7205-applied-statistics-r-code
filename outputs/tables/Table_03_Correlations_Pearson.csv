@@ -1,0 +1,4 @@
+Pair,r,p_value,n
+CO2_per_capita vs Renewables_share_energy,-0.9665531815662006,4.4801913383957315e-21,35
+CO2_per_capita vs Energy_per_capita,0.9840539595237394,2.508272321461325e-26,35
+Renewables_share_energy vs Energy_per_capita,-0.9628183822132703,2.4992857327079288e-20,35

@@ -1,0 +1,17 @@
+Statistic,Value
+n_years,35
+co2_mean,8.074742857142857
+co2_median,9.093
+co2_sd,2.020339711429697
+co2_min,4.482
+co2_max,10.588
+ren_mean,6.091799999999999
+ren_median,2.337
+ren_sd,6.900796679497572
+ren_min,0.578
+ren_max,21.293
+energy_mean,39406.83365714286
+energy_median,42319.914
+energy_sd,6011.86266236669
+energy_min,28015.771
+energy_max,45906.703
